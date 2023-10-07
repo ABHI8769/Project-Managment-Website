@@ -1,39 +1,64 @@
-# Kards - Simple Kanban Board
+Project Managment System - Task_2 (Bharat Intern)
 
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
-## [Demo](https://waterrmalann.github.io/kards/)   |   [Source](https://github.com/waterrmalann/kards/blob/main/js/main.js)
-
-A simple cards-based kanban board web app heavily inspired by Trello, the UI is also pretty similar to that of Trello. You can create upto 512 unique kanban boards with different names, which holds cards. Each card can hold an unlimited number of items/tasks each. All items support drag and drop between cards as well as within the same card to reoder. All data is stored locally on the computer by the browser. This whole project was written in HTML, CSS, and pure vanilla JavaScript with no external dependencies.
-
-![Screenshot](screenshot.JPG)
+Certainly, here's a sample README.md content for your Git repository for the "Project Management System" as part of your internship at Bharat Intern:
 
 ---
 
-### Setup
+# Project Management System
 
-A live version of the web app is available on my github pages [here](https://waterrmalann.github.io/kards/). Another version (could be outdated) is hosted on my personal portfolio at this [link](http://alanvarghese.me/projects/kards/app.html). If you wish to modify the app or host it yourself, you can clone the repo and do whatever you want with it.
+This repository contains the codebase for the **Project Management System** developed as part of Task 2 during my internship at **Bharat Intern**.
 
-1. [Clone the repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository).
-```
-git clone https://github.com/waterrmalann/kards.git
-```
-2. Install the dependencies.
-```
-npm install
-```
-3. This will start a live server. Head to the IP shown in the console.
-```
-npm run serve
-```
+## Description
+
+The Project Management System is a web application designed to streamline project management and collaboration within an organization. It facilitates the tracking of tasks, assignments, deadlines, and project progress. This system is built using a combination of HTML, CSS, and JavaScript.
+
+## Tech Stack
+
+- **HTML**: Used for structuring the web pages and creating the user interface.
+- **CSS**: Responsible for styling and layout, enhancing the user experience.
+- **JavaScript**: Provides interactivity, dynamic behavior, and client-side scripting for the application.
+
+## Features
+
+- **Task Management**: Easily create, edit, and delete tasks.
+- **User Authentication**: Securely log in and manage user accounts.
+- **Project Overview**: View a summary of project progress and status.
+- **Deadline Tracking**: Keep track of project deadlines and milestones.
+- **Collaboration**: Collaborate with team members on tasks and projects.
+- **Responsive Design**: Ensure usability on various devices and screen sizes.
+
+## Usage
+
+To run this project locally, follow these steps:
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/your-username/project-management-system.git
+   ```
+
+2. Open the project directory:
+
+   ```bash
+   cd project-management-system
+   ```
+
+3. Open the `index.html` file in your web browser to access the application.
+
+## Contribution
+
+Contributions to this project are welcome. Feel free to submit bug reports, feature requests, or pull requests.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE]
+
+## Contact
+
+For any inquiries or feedback, please contact [Abhijeet Goswami](mailto:abhijeet.goswami78@gmail.com).
 
 ---
 
-### Contribution
-
-Contributions are always accepted. Feel free to open a pull request to fix any issues or to make improvements you think that should be made. Any contribution will be accepted as long as it doesn't stray too much from the objective of the app. If you're in doubt about whether the PR would be accepted or not, you can always open an issue to get my opinion on it.
-
-License
-----
-
-MIT License, see [LICENSE](LICENSE)
+Please replace `ABHI8769`, `Abhijeet Goswami`, and `abhijeet.goswami78@gmail.com` with your actual GitHub username, name, and email address. Customize this README to provide more specific information about your Project Management System and internship experience.
