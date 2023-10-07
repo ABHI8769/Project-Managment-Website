@@ -61,4 +61,3 @@ For any inquiries or feedback, please contact [Abhijeet Goswami](mailto:abhijeet
 
 ---
 
-Please replace `ABHI8769`, `Abhijeet Goswami`, and `abhijeet.goswami78@gmail.com` with your actual GitHub username, name, and email address. Customize this README to provide more specific information about your Project Management System and internship experience.
