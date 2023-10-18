@@ -56,6 +56,3 @@ This project is licensed under the MIT License. See the [LICENSE]
 
 For any inquiries or feedback, please contact [Abhijeet Goswami](mailto:abhijeet.goswami78@gmail.com).
 
----
-
->>>>>>> 2000dd454daaa10ad6fd041b59104b653b14c17f
